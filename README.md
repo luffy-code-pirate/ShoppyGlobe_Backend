@@ -18,8 +18,6 @@ npm run dev        # starts on http://localhost:3000 (nodemon, auto-restarts)
 ```
 
 `.env` needs:
-
-
 PORT=3000
 
 MONGO_URI=mongodb://<user_name>:<password>@ac-v9itqh0-shard-00-00.1ydfpoy.mongodb.net:27017,...
